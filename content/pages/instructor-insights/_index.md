@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 30000a7f-1e20-f965-c78e-d9c4a3969089
 ---
@@ -55,20 +57,6 @@ None
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![20.416j-classroom.jpeg]({{< resource_file 901dce17-65f8-aba7-548d-ac318ddcf9bd >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture / discussion
-    
-    Students and faculty convened around this large table for lecture and discussion.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

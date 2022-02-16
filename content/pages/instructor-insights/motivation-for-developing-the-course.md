@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 30000a7f-1e20-f965-c78e-d9c4a3969089
 title: Motivation for Developing the Course
 uid: 64c2dd5b-a3d2-7f55-d41e-eadf3afeb8f6

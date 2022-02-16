@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Image showing the number of students enrolled in the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/0e2e3a1edfe0a49bf2d19ea863f7108b_12-approx.png
+file: /media/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/0e2e3a1edfe0a49bf2d19ea863f7108b_12-approx.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: ~12 students
 uid: 0e2e3a1e-dfe0-a49b-f2d1-9ea863f7108b

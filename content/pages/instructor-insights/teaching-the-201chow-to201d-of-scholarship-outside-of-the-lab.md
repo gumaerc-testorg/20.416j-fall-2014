@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 30000a7f-1e20-f965-c78e-d9c4a3969089
 title: Teaching the "How-To" of Scholarship Outside of the Lab
 uid: fc60ec63-00a3-27d9-cb06-1871452b006b
