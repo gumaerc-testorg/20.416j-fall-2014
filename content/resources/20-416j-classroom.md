@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 30000a7f-1e20-f965-c78e-d9c4a3969089
 resourcetype: Image
 title: 20.416J Classroom
 uid: 901dce17-65f8-aba7-548d-ac318ddcf9bd
