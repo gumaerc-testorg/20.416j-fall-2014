@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Professor Mark Bathe shares advice with other educators
+  about using the materials published on the OCW course site
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
