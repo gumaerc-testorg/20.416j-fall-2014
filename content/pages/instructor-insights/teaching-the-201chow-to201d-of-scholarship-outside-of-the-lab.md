@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: In this section, Professors Jeff Gore and Mark Bathe discuss how 20.416J
+  Topics in Biophysics and Physical Biology serves as a forum for exposing students
+  to essential non-research topics, such as giving presentations and writing papers,
+  that will be essential in their careers as scholars. Special attention is paid to
+  how the instructors help students develop the skill of reading scientific papers.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,11 +15,9 @@ parent_uid: 30000a7f-1e20-f965-c78e-d9c4a3969089
 title: Teaching the "How-To" of Scholarship Outside of the Lab
 uid: fc60ec63-00a3-27d9-cb06-1871452b006b
 ---
+_In this section, Professors Jeff Gore and Mark Bathe discuss how_ 20.416J Topics in Biophysics and Physical Biology _serves as a forum for exposing students to essential non-research topics, such as giving presentations and writing papers, that will be essential in their careers as scholars. Special attention is paid to how the instructors help students develop the skill of reading scientific papers._
 
-_In this section, Professors Jeff Gore and Mark Bathe discuss how 20.416J Topics in Biophysics and Physical Biology serves as a forum for exposing students to essential non-research topics, such as giving presentations and writing papers, that will be essential in their careers as scholars. Special attention is paid to how the instructors help students develop the skill of reading scientific papers._
-
-Exposing Students to Non-Research Topics
-----------------------------------------
+## Exposing Students to Non-Research Topics
 
 As scholars, we know that reading and writing research papers, applying for fellowships, giving presentations, and creating figures are tasks central to our work in academia, and we know that doing these tasks well takes a lot of practice, but rarely are there formal contexts in which we teach students how to do these tasks. Faculty members tend to feel it’s not their place to include these topics in content-based courses. Part of our motivation for developing _20.416J Topics in Biophysics and Physical Biology_ was to create a forum for exposing students to these essential non-research topics.
 
@@ -21,13 +25,11 @@ The idea of exposure is key. We could devote an entire course to any one of thes
 
 We have wonderful faculty members participating in _20.416J Topics in Biophysics and Physical Biology_ and all of them contribute to this effort. Recently, [Cathy Drennan](http://drennan.mit.edu/education/group-members/catherine-l-drennan/), MIT professor of chemistry and biology, provided students with fantastic insights into how to present effectively. [Bang Wong](https://mitcommlab.mit.edu/broad/fellows_staff/bang-wong/), of the Broad Institute, has developed first-rate materials that we use to introduce students to impactful [data visualization strategies](https://www.broadinstitute.org/data-visualization-initiative). [Feng Zhang](https://mcgovern.mit.edu/principal-investigators/feng-zhang) shared how his group effectively formulates and plans the paper writing process. We have similar examples of faculty sharing key insights with students each year. The benefit of having several different faculty members contributing to the conversation about non-research topics is that students learn that there are different strategies for approaching scholarship. The course is very much a large discussion about these different strategies. 
 
-Reading Scientific Papers
--------------------------
+## Reading Scientific Papers
 
 One of our learning goals for students is that they practice reading scientific papers. Developing this skill is important because, in some disciplines, learning to read papers outside of your field, as is required in an interdisciplinary field such as biophysics, is not a typical component of the undergraduate curriculum. In _20.416J Topics in Biophysics and Physical Biology,_ we help students practice reading scientific papers in such a way that they can extract the information they need for their interdisciplinary research.
 
-_Guidelines for Reading Papers Under Different Time Constraints_
-----------------------------------------------------------------
+## _Guidelines for Reading Papers Under Different Time Constraints_
 
 {{< quote "One of the main challenges students face in learning to read scientific papers is deciding how much time to spend on each article." "— Jeff Gore and Mark Bathe" >}}
 
@@ -37,17 +39,16 @@ Jaimie Goldstein, the director of the [Biological Engineering Communications Lab
 
 {{< anchor "Reading Questions" >}}{{< /anchor >}}
 
-_Reading Questions_
--------------------
+## _Reading Questions_
 
 Each week our guest faculty member selects a research paper from the primary literature to discuss with students. It’s important that students read and think about the paper prior to coming to class. Another way we help students practice reading papers effectively (and ensure that they are prepared for the discussion) is to require them to respond to 3 or 4 reading questions, using Google Forms, prior to class. The questions are straightforward and answerable with a few sentences—we’re not asking for soliloquies. We simply want to ensure that students are gleaning key information from the articles.
 
 We've oscillated between two question models. In one model, we ask specific questions about data from the article, such as “In Figure 2, why did the authors run the experiment in the absence of ATP?” In another model, and the one we share on OCW, we have a set of questions that are the same for every paper:
 
-1.  What is the primary motivation and overall aim of the study?
-2.  What methods were used to investigate the problem, and what is/are one of two major limitation(s) of them?
-3.  What is a principal result that you take away from the study?
-4.  What future studies would you suggest as a follow up to the present work?
+1. What is the primary motivation and overall aim of the study?
+2. What methods were used to investigate the problem, and what is/are one of two major limitation(s) of them?
+3. What is a principal result that you take away from the study?
+4. What future studies would you suggest as a follow up to the present work?
 
 These are questions that any scholar or student who sits down to read a scientific paper should be able to answer. They are also questions students should be able to answer about their own papers when they write them. We hope by training students to think about these questions as they read, we’re helping them not only become better consumers of the scientific literature, but better writers, as well.
 
