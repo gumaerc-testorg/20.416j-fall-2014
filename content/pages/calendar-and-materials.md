@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course calendar, citations and links to readings
+  on topics in biophysics and physical biology, and non-research discussion topics
+  and readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar and Materials
 uid: d4e2422e-0825-bcc6-2080-c7bd3a8f77b1
 ---
@@ -61,7 +66,7 @@ Alvarado, Jose, et al. "[Molecular Motors Robustly Drive Active Gels to a Critic
 
 **Writing a Fellowship Proposal**
 
-[Guidelines & Advice on Applying to Graduate Fellowships (PDF)]({{< baseurl >}}/resources/mit20_416jf14_fellowships)  
+{{% resource_link dfead244-4d80-e5fa-50b0-1b8fe1d852e2 "Guidelines & Advice on Applying to Graduate Fellowships (PDF)" %}}  
 (Courtesy of Diana Chien and John Casey, Biological Engineering Communication Lab. Used with permission.)
 
 
@@ -118,7 +123,7 @@ Macosko, Evan Z., et al. "[Highly Parallel Genome–wide Expression Profiling of
 
 **Reading Effectively**
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[How to Navigate a Scientific Paper with Time Constraints: A Graphic Approach (PDF)](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)
+[How to Navigate a Scientific Paper with Time Constraints: A Graphic Approach (PDF)](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)
 
 
 {{< tdclose >}}
