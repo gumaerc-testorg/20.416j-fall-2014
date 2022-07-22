@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 20.416J Classroom
 uid: 901dce17-65f8-aba7-548d-ac318ddcf9bd
 ---
 Photograph of the classroom used for the course.
-
