@@ -40,7 +40,9 @@
     "content": "745aa153-d233-707a-1cb1-b4fe41b86acb",
     "website": "20-416j-topics-in-biophysics-and-physical-biology-fall-2014"
   },
-  "learning_resource_types": [],
-  "site_uid": "7e40740b-b565-4b53-918e-1f9459cb0458",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "fa87b3df-88c9-4a23-b0cc-b97526ce109a",
   "title": "Course Metadata"
 }
