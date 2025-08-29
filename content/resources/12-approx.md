@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing the number of students enrolled in the course.
-file: /courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/0e2e3a1edfe0a49bf2d19ea863f7108b_12-approx.png
+file: /ol-ocw-studio-app/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/0e2e3a1edfe0a49bf2d19ea863f7108b_12-approx.png
 file_size: 2833
 file_type: image/png
 image_metadata:
