@@ -39,16 +39,16 @@ NON–RESEARCH DISCUSSIONS TOPICS AND READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Dixon, Jesse R., et al. "[Topological Domains in Mammalian Genomes Identified by Analysis of Chromatin Interactions](http://dx.doi.org/10.1038/nature11082)." _Nature_ 485 (2012): 376–80.
+Dixon, Jesse R., et al. "{{% resource_link "e634bff9-e95f-4c44-a64b-9ccaec510c2b" "Topological Domains in Mammalian Genomes Identified by Analysis of Chromatin Interactions" %}}." _Nature_ 485 (2012): 376–80.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 **Becoming a Scientist**
 
-Giddings, Morgan C. "[On the Process of Becoming a Great Scientist](http://dx.doi.org/10.1371/journal.pcbi.0040033)." _PLOS Computational Biology_ 4, no. 2 (2008): e33.
+Giddings, Morgan C. "{{% resource_link "de7ed280-c6d8-4b96-8c34-8f394918003a" "On the Process of Becoming a Great Scientist" %}}." _PLOS Computational Biology_ 4, no. 2 (2008): e33.
 
-Erren, Thomas C., et al. "[Ten Simple Rules for Doing Your Best Research, According to Hamming](http://dx.doi.org/10.1371/journal.pcbi.0030213)." _PLOS Computational Biology_ 3, no. 10 (2007): e213.
+Erren, Thomas C., et al. "{{% resource_link "80347b3d-38cd-49e3-9d5c-1c798da58929" "Ten Simple Rules for Doing Your Best Research, According to Hamming" %}}." _PLOS Computational Biology_ 3, no. 10 (2007): e213.
 
 
 {{< tdclose >}}
@@ -59,7 +59,7 @@ Erren, Thomas C., et al. "[Ten Simple Rules for Doing Your Best Research, Accord
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Alvarado, Jose, et al. "[Molecular Motors Robustly Drive Active Gels to a Critically Connected State](http://dx.doi.org/10.1038/nphys2715)." _Nature Physics_ 9 (2013): 591–7.
+Alvarado, Jose, et al. "{{% resource_link "3357cd67-9364-4e9c-89db-80a7b067a771" "Molecular Motors Robustly Drive Active Gels to a Critically Connected State" %}}." _Nature Physics_ 9 (2013): 591–7.
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -78,14 +78,14 @@ Alvarado, Jose, et al. "[Molecular Motors Robustly Drive Active Gels to a Critic
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Carnall, Jacqui M. A., et al. "[Mechanosensitive Self–replication Driven by Self–organization](http://dx.doi.org/10.1126/science.1182767)." _Science_ 327, no. 5972 (2010): 1502–6.
+Carnall, Jacqui M. A., et al. "{{% resource_link "7b79456e-7e3a-4cb6-b811-f35f68aaa122" "Mechanosensitive Self–replication Driven by Self–organization" %}}." _Science_ 327, no. 5972 (2010): 1502–6.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 **Choosing a Research Problem**
 
-Alon, Uri. "[How to Choose a Good Scientific Problem](http://dx.doi.org/10.1016/j.molcel.2009.09.013)." _Molecular Cell_ 35, no. 6 (2009): 726–8.
+Alon, Uri. "{{% resource_link "8b8a2a68-5fe3-4828-a006-524992b3b91b" "How to Choose a Good Scientific Problem" %}}." _Molecular Cell_ 35, no. 6 (2009): 726–8.
 
 
 {{< tdclose >}}
@@ -96,16 +96,16 @@ Alon, Uri. "[How to Choose a Good Scientific Problem](http://dx.doi.org/10.1016/
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Tavakoli Nia, et al. "[Aggrecan Nanoscale Solid–fluid Interactions are a Primary Determinant of Cartilage Dynamic Mechanical Properties](http://dx.doi.org/10.1021/nn5062707)." _ACS Nano_ 9, no. 3 (2015): 2614–25.
+Tavakoli Nia, et al. "{{% resource_link "6ca70440-4ce2-4c59-8660-09f222ffca4a" "Aggrecan Nanoscale Solid–fluid Interactions are a Primary Determinant of Cartilage Dynamic Mechanical Properties" %}}." _ACS Nano_ 9, no. 3 (2015): 2614–25.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 **Writing a Paper**
 
-Whitesides, George M. "[Whitesides' Group: Writing a Paper](http://dx.doi.org/10.1002/adma.200400767)." _Advanced Materials_ 16, no. 15 (2004): 1375–7.
+Whitesides, George M. "{{% resource_link "47bcb9d2-cc59-4969-bda0-49c613a6190e" "Whitesides' Group: Writing a Paper" %}}." _Advanced Materials_ 16, no. 15 (2004): 1375–7.
 
-Doerr, Allison. "[How to Write a Cover Letter](http://blogs.nature.com/methagora/2013/09/how-to-write-a-cover-letter.html)." _Nature Methods_ (2013).
+Doerr, Allison. "{{% resource_link "b92ead6e-9000-4c1e-9d9f-98650f9892e8" "How to Write a Cover Letter" %}}." _Nature Methods_ (2013).
 
 
 {{< tdclose >}}
@@ -116,14 +116,14 @@ Doerr, Allison. "[How to Write a Cover Letter](http://blogs.nature.com/methagora
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Macosko, Evan Z., et al. "[Highly Parallel Genome–wide Expression Profiling of Individual Cells Using Nanoliter Droplets](http://dx.doi.org/10.1016/j.cell.2015.05.002)." _Cell_ 161, no. 5 (2015): 1202–14.
+Macosko, Evan Z., et al. "{{% resource_link "e4ae23af-bbe4-4d36-8547-268dd50f9fac" "Highly Parallel Genome–wide Expression Profiling of Individual Cells Using Nanoliter Droplets" %}}." _Cell_ 161, no. 5 (2015): 1202–14.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 **Reading Effectively**
 
-[How to Navigate a Scientific Paper with Time Constraints: A Graphic Approach (PDF)](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)
+{{% resource_link "39e542b8-ef33-4e6e-aeeb-c7d1eab1e46d" "How to Navigate a Scientific Paper with Time Constraints: A Graphic Approach (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +134,7 @@ Macosko, Evan Z., et al. "[Highly Parallel Genome–wide Expression Profiling of
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Yoshida, Takehito, et al. "[Rapid Evolution Drives Ecological Dynamics in a Predator–prey System](http://dx.doi.org/10.1038/nature01767)." _Nature_ 424 (2003): 303–6.
+Yoshida, Takehito, et al. "{{% resource_link "ed55b98a-6d37-4aca-ac83-ebb248178286" "Rapid Evolution Drives Ecological Dynamics in a Predator–prey System" %}}." _Nature_ 424 (2003): 303–6.
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -152,14 +152,14 @@ There are no readings for this topic.
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Koski, Kristie J., et al. "[Non–invasive Etermination of the Complete Elastic Moduli of Spider Silks](http://dx.doi.org/10.1038/nmat3549)." _Nature Materials_ 12 (2013): 262–7.
+Koski, Kristie J., et al. "{{% resource_link "ed470752-75fd-4074-87e4-aed34628a0fa" "Non–invasive Etermination of the Complete Elastic Moduli of Spider Silks" %}}." _Nature Materials_ 12 (2013): 262–7.
 {{< tdclose >}}
 {{< tdopen >}}
 {{< anchor "referee" >}}{{< /anchor >}}
 
 **Refereeing**
 
-Drubin, David G. "[Any Jackass can Trash a Manuscript, but it Takes Good Scholarship to Create One (How _MBoC_ Promotes Civil and Constructive Peer Review)](http://dx.doi.org/10.1091/mbc.E11-01-0002)." _Molecular Biology of the Cell_ 22, no. 5 (2011): 525–7.
+Drubin, David G. "{{% resource_link "58b72f4b-1a1d-45a5-a3d6-a1d881b1abd5" "Any Jackass can Trash a Manuscript, but it Takes Good Scholarship to Create One (How _MBoC_ Promotes Civil and Constructive Peer Review)" %}}." _Molecular Biology of the Cell_ 22, no. 5 (2011): 525–7.
 
 
 {{< tdclose >}}
@@ -177,9 +177,9 @@ Scott, Mathew, et al. "[Interdependence of Cell Growth and Gene Expression: Orig
 
 **Making Figures**
 
-Wong, Bang. "[Points of View: Gestalt Principles (Part 1)](http://dx.doi.org/10.1038/nmeth1110-863)." _Nature Methods_ 7, no. 11 (2010): 863.
+Wong, Bang. "{{% resource_link "542a58e7-9446-4fb1-9680-78bce05fcd1c" "Points of View: Gestalt Principles (Part 1)" %}}." _Nature Methods_ 7, no. 11 (2010): 863.
 
-———. "[Points of View: Gestalt Principles (Part 2)](http://dx.doi.org/10.1038/nmeth1210-941)." _Nature Methods_ 7, no. 12 (2010): 941.
+———. "{{% resource_link "92969cd3-544d-4b52-8a96-d30fc9789120" "Points of View: Gestalt Principles (Part 2)" %}}." _Nature Methods_ 7, no. 12 (2010): 941.
 
 
 {{< tdclose >}}
@@ -190,16 +190,16 @@ Wong, Bang. "[Points of View: Gestalt Principles (Part 1)](http://dx.doi.org/10.
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Meharenna, et al. "[Crystallographic and Single–Crystal Spectral Analysis of the Peroxidase Ferryl Intermediate](http://dx.doi.org/10.1021/bi100238r)." _Biochemistry_ 49 (2010): 2984.
+Meharenna, et al. "{{% resource_link "6b6f21ae-43d9-4c46-91b9-fe09378901ed" "Crystallographic and Single–Crystal Spectral Analysis of the Peroxidase Ferryl Intermediate" %}}." _Biochemistry_ 49 (2010): 2984.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 **Giving a Talk**
 
-McConnell, Susan. "[Designing Effective Scientific Presentations](http://www.ibiology.org/ibioseminars/techniques/susan-mcconnell-part-1.html)." iBiology.org.
+McConnell, Susan. "{{% resource_link "1a32c150-1af2-4676-acde-3f36c11d139d" "Designing Effective Scientific Presentations" %}}." iBiology.org.
 
-———. "[The Importance of Giving a Good Talk](https://www.ibiology.org/professional-development/presentation-skills/)." iBiology.org.
+———. "{{% resource_link "914f379a-2079-490a-b06f-d86e93e19a08" "The Importance of Giving a Good Talk" %}}." iBiology.org.
 
 
 {{< tdclose >}}
@@ -210,16 +210,16 @@ McConnell, Susan. "[Designing Effective Scientific Presentations](http://www.ibi
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Zaks, Julia, et al. "[A Kinetic Model of Rapidly Reversible Nonphotochemical Quenching](http://dx.doi.org/10.1073/pnas.1211017109)." _Proceedings of the National Academy of Sciences_ 109, no. 39 (2015): 15757–62.
+Zaks, Julia, et al. "{{% resource_link "8afe17b1-b2e1-4f96-a9ed-e96e4753807d" "A Kinetic Model of Rapidly Reversible Nonphotochemical Quenching" %}}." _Proceedings of the National Academy of Sciences_ 109, no. 39 (2015): 15757–62.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 **Scientific Ethics**
 
-Glass, Bentley. "[The Ethical Basis of Science](http://dx.doi.org/10.1126/science.150.3701.1254)." _Science_ 150, no. 3701 (1965): 1254–61.
+Glass, Bentley. "{{% resource_link "2d2e7c66-a8ad-49c9-8d7e-4268f2d79c30" "The Ethical Basis of Science" %}}." _Science_ 150, no. 3701 (1965): 1254–61.
 
-Engineering, and Public Policy Committee on Science, Institute of Medicine, et al. _On Being a Scientist: A Guide to Responsible Conduct in Research_. National Academies Press, 2009. ISBN: 9780309119702. \[Preview with [Google Books](http://books.google.com/books?id=-vtjAgAAQBAJ&pg=PAfrontcover)\]
+Engineering, and Public Policy Committee on Science, Institute of Medicine, et al. _On Being a Scientist: A Guide to Responsible Conduct in Research_. National Academies Press, 2009. ISBN: 9780309119702. \[Preview with {{% resource_link "1359ce95-92ea-4460-950c-301975d7564b" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -237,7 +237,7 @@ Hammar, Petter, et al. "[The _Lac_ Repressor Displays Facilitated Diffusion in L
 
 **Curriculum Vitae**
 
-[Resumes, CVs, Cover Letters, and LinkedIn](https://gecd.mit.edu/jobs-and-internships/resumes-cvs-cover-letters-and-linkedin)
+{{% resource_link "569d54a6-dff6-4f27-9597-03dfe8573395" "Resumes, CVs, Cover Letters, and LinkedIn" %}}
 
 
 {{< tdclose >}}
@@ -248,7 +248,7 @@ Hammar, Petter, et al. "[The _Lac_ Repressor Displays Facilitated Diffusion in L
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Campas, et al. "[Quantifying Cell–generated Mechanical Forces within Living Embryonic Tissues](http://dx.doi.org/10.1038/nmeth.2761)." _Nature Methods_ 11 (2014): 183–9.
+Campas, et al. "{{% resource_link "bac3553e-28c1-4b98-8090-c7b58c715330" "Quantifying Cell–generated Mechanical Forces within Living Embryonic Tissues" %}}." _Nature Methods_ 11 (2014): 183–9.
 {{< tdclose >}}
 {{< tdopen >}}
 

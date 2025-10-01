@@ -28,7 +28,7 @@ Assignments
 
 Reading questions on the weekly assigned paper are due at 9 AM before the corresponding discussion. Reading questions are answered via the course website, and should require only a few sentences each.
 
-In addition, there will be a two-page research proposal due that will be followed by an in-class critique with your peers. While the research proposal will be modeled on the [National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/) proposal, other fellowship programs are also acceptable.
+In addition, there will be a two-page research proposal due that will be followed by an in-class critique with your peers. While the research proposal will be modeled on the {{% resource_link "9fb75fa4-ffab-4ffd-b098-e2cd2879b94b" "National Science Foundation Graduate Research Fellowship Program" %}} proposal, other fellowship programs are also acceptable.
 
 Grading
 -------

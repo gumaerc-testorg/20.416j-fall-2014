@@ -50,7 +50,7 @@ None
 
 ### Requirements Satisfied
 
-[MIT Biophysics Certificate Program requirement](http://biophysics.mit.edu/MIT_Biophysics/Certificate_Program.html)
+{{% resource_link "c2a98d72-990b-4f62-a316-88c08acd8131" "MIT Biophysics Certificate Program requirement" %}}
 
 ### Offered
 
